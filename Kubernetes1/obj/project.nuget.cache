@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+ZyvmPx+vLNxl/NsVR71kb6GMBVyAqTzpd+Eh1QD2wibbdugb+SJGkb5axnD3UFrm6iLGv0MfTapVsLLAglVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\H417932\\source\\repos\\Kubernetes1\\Kubernetes1\\Kubernetes1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\H417932\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\H417932\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\H417932\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
